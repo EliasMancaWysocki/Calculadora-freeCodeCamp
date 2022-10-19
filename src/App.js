@@ -22,12 +22,6 @@ function App() {
     }
   };
 
-  // const limitOperador = (Button, valor) => {
-  //   if(valor === '*') && (valor === '/') && (valor === '.') {
-      
-  //   }
-  // };
-
   return (
     <div className='App'>
       <Logo src={freeCodeCampLogo} />
